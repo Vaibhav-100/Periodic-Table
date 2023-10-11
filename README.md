@@ -1,3 +1,3 @@
-Visit Site:- https://vaibhav-100.github.io/Mad-Libs-Game/
+Visit Site:- https://vaibhav-100.github.io/Periodic-Table/
 <br>
 Periodic Table with sounds
